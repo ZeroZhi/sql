@@ -1,4 +1,4 @@
 SELECT name FROM city 
-WHERE name Like '%è'
-OR name Like '%û'
-OR name Like '%é'
+WHERE name Like '%Ð¸'
+OR name Like '%Ñ‹'
+OR name Like '%Ð¹'
